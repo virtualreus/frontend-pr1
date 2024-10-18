@@ -1,0 +1,6 @@
+.khan {
+  background-color: var(--gray_bg);
+  padding-top: 105px;
+  display: flex;
+  justify-content: center;
+}
